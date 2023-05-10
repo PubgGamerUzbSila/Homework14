@@ -1,0 +1,26 @@
+
+div {
+    background: linear-gradient(to right, #f00 0%, #f00 50%, #fff 50%, #fff 100%);
+    transition: background-position 0.5s ease;
+    background-size: 200% 100%;
+    padding: 20px;
+  }
+  
+  div:hover {
+    background-position: -100% 0;
+  }
+  
+  p {
+    font-size: 16px;
+  }
+  
+  button {
+    font-size: 20px;
+    margin-right: 10px;
+  }
+  
+  .show-less {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }

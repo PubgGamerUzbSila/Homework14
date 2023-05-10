@@ -1,0 +1,40 @@
+.d{
+    background-color: black;
+    border-radius: 10px;
+}
+.btn1{
+    background-color:cadetblue ;
+    border-radius: 7px;
+    width: 1300px;
+    height: 50px;
+}
+.btn1:hover{
+    background-color: rgb(193, 134, 46);
+}
+.btn2{
+    background-color:cadetblue ;
+    border-radius: 7px;
+    width: 1300px;
+    height: 50px;
+}
+.btn2:hover{
+    background-color: yellowgreen;
+}
+.btn3{
+    background-color:cadetblue ;
+    border-radius: 7px;
+    width: 1300px;
+    height: 50px;
+}
+.btn3:hover{
+    background-color: whitesmoke;
+}
+.btn4{
+    background-color:cadetblue ;
+    border-radius: 7px;
+    width: 1300px;
+    height: 50px;
+}
+.btn4:hover{
+    background-color: khaki;
+}

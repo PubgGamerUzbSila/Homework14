@@ -1,0 +1,53 @@
+.q{
+    margin: 24px auto;
+    width: 200px;
+    background-color:aqua;
+}
+.w{
+    /* background: linear-gradient(to right, #f00 0%, #f00 50%, #fff 50%, #fff 100%);
+    transition: background-position 0.5s ease;
+    background-size: 200% 100%; */
+    background-color: blue;
+}
+/* .w:hover{
+    padding-right: 19px;
+    background-position: -100% 0;
+    background-color: ;
+} */
+.e{
+    background: linear-gradient(to right, white 0%, white 50%, yellow 50%, yellow 100%);
+    transition: background-position 0.5s ease;
+    background-size: 200% 100%;
+}
+.e:hover{
+    padding-right: 19px;
+    background-position: -100% 0;
+}
+.r{
+    background: linear-gradient(to right, white 0%, white 50%, green 50%, green 100%);
+    transition: background-position 0.5s ease;
+    background-size: 200% 100%;
+}
+.r:hover{
+    padding-right: 19px;
+    background-position: -100% 0;
+}
+.t{
+    background: linear-gradient(to right, white 0%, white 50%, #da1919 50%, #da1919 100%);
+    transition: background-position 0.5s ease;
+    background-size: 200% 100%;
+}
+.t:hover{
+    padding-right: 19px;
+    background-position: -100% 0;
+}
+
+.y{
+    background: linear-gradient(to right,white 0%,white 50%, pink 50%, pink 100%);
+    transition: background-position 0.5s ease;
+    background-size: 200% 100%;
+}
+.y:hover{
+    padding-right: 19px;
+    background-position: -100% 0;
+}
